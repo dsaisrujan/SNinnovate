@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_description" label="Description" language="en" table="x_370371_innovate_innovate">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_description</element>
+            <help/>
+            <hint/>
+            <label>Description</label>
+            <language>en</language>
+            <name>x_370371_innovate_innovate</name>
+            <plural>Descriptions</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-18 18:52:01</sys_created_on>
+            <sys_id>b9b349b6db423300fb0629464896196f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Description</sys_name>
+            <sys_package display_value="Innovate" source="x_370371_innovate">489cb872db423300fb0629464896193f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">489cb872db423300fb0629464896193f</sys_scope>
+            <sys_update_name>sys_documentation_x_370371_innovate_innovate_u_description_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-18 18:59:42</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
